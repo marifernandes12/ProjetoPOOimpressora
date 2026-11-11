@@ -94,9 +94,19 @@ Opção	O que faz
 
 ## 🧪 Testes Realizados
 
-*(Liste o que você testou e o resultado. Ex.: login com senha errada 3 vezes, impressão de texto, QR Code, código de barras, bip, gaveta.)*
+Autenticação (Login):
 
----
+Validar se o sistema permite o acesso apenas com as credenciais corretas.
+
+Confirmar o bloqueio e encerramento do sistema após 3 tentativas de login falhadas.
+
+Comunicação com a Impressora:
+
+Testar a configuração e abertura de conexão com a impressora ligada (resultado esperado: sucesso).
+
+Testar o comportamento do sistema caso a impressora esteja desligada ou o cabo desconectado (resultado esperado: exibição do código de erro sem quebrar o programa).
+
+Confirmar o fecho seguro da conexão ao encerrar a aplicação.
 
 ## 📚 Documentação Adicional
 

@@ -14,7 +14,7 @@ public class Main {
         System.out.println("      SISTEMA IMPRESSORA ELGIN");
         System.out.println("==================================");
 
-        // LOGIN COM 3 TENTATIVAS
+
 
         boolean loginRealizado = false;
 
@@ -52,7 +52,6 @@ public class Main {
             return;
         }
 
-        // MENU PRINCIPAL
 
         int opcao;
 

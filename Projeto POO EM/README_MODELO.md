@@ -110,13 +110,13 @@ Confirmar o fecho seguro da conexão ao encerrar a aplicação.
 
 ## 📚 Documentação Adicional
 
-- Manual da impressora Elgin
-- Documentação do SDK E1_Impressora
+Manual da impressora Elgin
+Documentação do SDK E1_Impressora
 
 ---
 
 ## 👥 Autores
-*(em ordem alfabética)*
 
-- Nome Completo
-- Nome Completo
+- Manuela Antunes Munhoz
+- Mariana Fernandes Silva
+- Pedro Henrique Lima Gaspar

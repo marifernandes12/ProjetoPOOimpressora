@@ -11,7 +11,7 @@ public class Main {
         Impressora impressora = new Impressora();
 
         System.out.println("==================================");
-        System.out.println("      SISTEMA IMPRESSORA ELGIN");
+        System.out.println("      SISTEMA IMPRESSORA ELGIN" );
         System.out.println("==================================");
 
 
